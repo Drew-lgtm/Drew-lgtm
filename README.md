@@ -1,5 +1,7 @@
 ### Hi there 👋
 #### Welcome to my profile
+
+I'm a DevOps engineer with experience in automating infrastructure, deploying applications, and managing cloud environments. I'm passionate about Python and love using it to build tools and scripts that make my job easier. I'm also interested in machine learning and want to learn more about how I can use it to improve my work as a DevOps engineer. I'm always looking for new challenges and opportunities to learn, and I'm excited to share my progress on GitHub. Feel free to browse my projects.
 <!--
 **Drew-lgtm/Drew-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
